@@ -1,0 +1,11 @@
+启用风之翼 /setProp is_flyable on
+打开第一章红圈边界 /unlockall
+打开第一章红圈边界（备用） /quest add 35001   输入之后再输入   /quest finish 35001
+去除边界 /setProp setopenstate 48
+无敌 /prop god on 
+无限能量（元素爆发那个） /prop ue on 
+无限体力 /prop ns on 
+获取全部物品 /give all x9999 lv90 c6 r5 sl10 
+开启全部锚点，神像，秘境等 /prop um on
+ 
+懒得写了，看你的指令生成器去
